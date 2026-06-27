@@ -1,2 +1,2 @@
-# winserver
+# WinServer
 WinServer Github
